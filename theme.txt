@@ -1,0 +1,8 @@
+http://gnome-look.org/
+install the mediteranean theme.
+
+To customize eclipse:
+1.for windows: http://rogerdudler.github.io/eclipse-ui-themes/
+2.for text font: http://marketplace.eclipse.org/content/eclipse-color-theme#.UtBx_9_p8WU
+
+
